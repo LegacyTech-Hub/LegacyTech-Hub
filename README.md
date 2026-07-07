@@ -2,10 +2,10 @@
 
 We are a passionate Tech Community dedicated to transforming ideas into innovative tech solutions and leaving a lasting legacy. 🚀✨
 
-- 🔭 We’re currently working on **End-to-End Tech & Data Projects !**
-- 🌱 We’re currently exploring **AI, Advanced Analytics, Web Development & Cloud Security**
-- 👯 We’re looking to collaborate on **Open-Source Initiatives and Tech Innovations**
-- 💬 Ask us about **Data Science, UI/UX Design, Software Engineering, and AI**
+- 🔭 We’re currently working on **End-to-End Tech, Data, and AI Projects**
+- 🌱 Our community consists of specialized teams in: **Data Science, AI & NLP, Web Development, Cloud & Security, and UI/UX Design**
+- 🤝 We’re looking to collaborate on **Open-Source Initiatives and Tech Innovations**
+- 💬 Ask us about **Data Analytics, Full-Stack Dev, Cybersecurity, and Machine Learning**
 - 📫 How to reach us: **[LegacyTech.Community@gmail.com]**
 
 ### 🛠️ Languages and Tools:
