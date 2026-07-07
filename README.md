@@ -6,7 +6,7 @@ We are a passionate Tech Community dedicated to transforming ideas into innovati
 - 🌱 We’re currently exploring **AI, Advanced Analytics, Web Development & Cloud Security**
 - 👯 We’re looking to collaborate on **Open-Source Initiatives and Tech Innovations**
 - 💬 Ask us about **Data Science, UI/UX Design, Software Engineering, and AI**
-- 📫 How to reach us: **[اكتبي إيميل المجتمع هنا]**
+- 📫 How to reach us: **[LegacyTech.Community@gmail.com]**
 
 ### 🛠️ Languages and Tools:
 <p align="left">
