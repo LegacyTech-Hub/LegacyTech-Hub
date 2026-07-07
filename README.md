@@ -2,7 +2,7 @@
 
 We are a passionate Tech Community dedicated to transforming ideas into innovative tech solutions and leaving a lasting legacy. 🚀✨
 
-- 🔭 We’re currently working on **End-to-End Tech & Data Projects** (like Project Afaq!)
+- 🔭 We’re currently working on **End-to-End Tech & Data Projects !**
 - 🌱 We’re currently exploring **AI, Advanced Analytics, Web Development & Cloud Security**
 - 👯 We’re looking to collaborate on **Open-Source Initiatives and Tech Innovations**
 - 💬 Ask us about **Data Science, UI/UX Design, Software Engineering, and AI**
